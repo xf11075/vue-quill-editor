@@ -2,10 +2,9 @@
 改造vue-quill-editor实现图片上传
 根据NextBoy发布的教程写的完整例子，原文地址：https://github.com/NextBoy/skill/issues/2
 
-需要引入element和vue-quill-editor
+需要引入element和vue-quill-editor  
 test.vue内容：
 ```javascript
-
 <template>
   <div>
     <!--使用element上传图片，隐藏即可-->
